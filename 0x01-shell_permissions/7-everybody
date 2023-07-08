@@ -1,2 +1,2 @@
 #!/bin/bash
-chmdo ugo+x
+chmdo ugo+x hello
