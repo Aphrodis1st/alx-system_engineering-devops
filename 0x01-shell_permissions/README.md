@@ -1,0 +1,1 @@
+Please read shell, permissions
