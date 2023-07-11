@@ -1,0 +1,21 @@
+total 124
+drwxrwxr-x 2 musilimu musilimu  4096 Nya 11 19:23 .
+drwxrwxr-x 6 musilimu musilimu  4096 Nya 11 18:21 ..
+-rwxrwxr-x 1 musilimu musilimu    32 Nya 11 18:21 0-hello_world
+-rwxrwxr-x 1 musilimu musilimu    28 Nya 11 18:21 1-confused_smiley
+-rwxrwxr-x 1 musilimu musilimu    28 Nya 11 18:21 2-hellofile
+-rwxrwxr-x 1 musilimu musilimu    39 Nya 11 18:21 3-twofiles
+-rwxrwxr-x 1 musilimu musilimu    29 Nya 11 18:21 4-lastlines
+-rwxrwxr-x 1 musilimu musilimu    29 Nya 11 18:21 5-firstlines
+-rwxrwxr-x 1 musilimu musilimu    40 Nya 11 18:21 6-third_line
+-rwxrw-r-- 1 musilimu musilimu    97 Nya 11 19:15 7-file
+-rw-r--r-- 1 musilimu musilimu 12288 Nya 11 19:17 .7-file.swl
+-rw-r--r-- 1 musilimu musilimu 12288 Nya 11 18:55 .7-file.swm
+-rw-r--r-- 1 musilimu musilimu 12288 Nya 11 18:52 .7-file.swn
+-rw-r--r-- 1 musilimu musilimu 12288 Nya 11 18:41 .7-file.swo
+-rw-rw-r-- 1 musilimu musilimu 12288 Nya 11 18:21 .7-file.swp
+-rwxrw-r-- 1 musilimu musilimu    36 Nya 11 19:23 8-cwd_state
+-rwxrw-r-- 1 musilimu musilimu    12 Nya 11 19:15 \*\"\Best School\"\\"\\*$\?\*\*\*\*\*:)
+-rw------- 1 musilimu musilimu 12288 Nya 11 19:06 .file.swp
+-rw-rw-r-- 1 musilimu musilimu     0 Nya 11 19:23 ls_cwd_content
+-rw-rw-r-- 1 musilimu musilimu    24 Nya 11 18:21 README.md
